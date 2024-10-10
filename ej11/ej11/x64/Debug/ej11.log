@@ -1,0 +1,15 @@
+﻿  ej11.cpp
+C:\Users\59171\Documents\Programacion\examen_241\ej11\ej11.cpp(36,20): error C2131: la expresión no se evaluó como una constante
+      C:\Users\59171\Documents\Programacion\examen_241\ej11\ej11.cpp(36,20):
+      el error se debió a una lectura de una variable fuera de su duración
+      C:\Users\59171\Documents\Programacion\examen_241\ej11\ej11.cpp(36,20):
+      consulte el uso de 'size'
+  
+C:\Users\59171\Documents\Programacion\examen_241\ej11\ej11.cpp(37,16): error C2131: la expresión no se evaluó como una constante
+      C:\Users\59171\Documents\Programacion\examen_241\ej11\ej11.cpp(37,16):
+      el error se debió a una lectura de una variable fuera de su duración
+      C:\Users\59171\Documents\Programacion\examen_241\ej11\ej11.cpp(37,16):
+      consulte el uso de 'size'
+  
+C:\Users\59171\Documents\Programacion\examen_241\ej11\ej11.cpp(41,23): error C3863: el tipo de matriz 'int [size]' no es asignable
+C:\Users\59171\Documents\Programacion\examen_241\ej11\ej11.cpp(42,19): error C3863: el tipo de matriz 'int [size]' no es asignable
