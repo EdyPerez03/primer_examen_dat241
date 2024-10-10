@@ -1,0 +1,10 @@
+C:\Users\59171\Documents\Programacion\examen_241\ej9_deteccionbordes\ej9_deteccionbordes\ej9_deteccionbordes\bin\Debug\ej9_deteccionbordes.exe.config
+C:\Users\59171\Documents\Programacion\examen_241\ej9_deteccionbordes\ej9_deteccionbordes\ej9_deteccionbordes\bin\Debug\ej9_deteccionbordes.exe
+C:\Users\59171\Documents\Programacion\examen_241\ej9_deteccionbordes\ej9_deteccionbordes\ej9_deteccionbordes\bin\Debug\ej9_deteccionbordes.pdb
+C:\Users\59171\Documents\Programacion\examen_241\ej9_deteccionbordes\ej9_deteccionbordes\ej9_deteccionbordes\obj\Debug\ej9_deteccionbordes.csproj.AssemblyReference.cache
+C:\Users\59171\Documents\Programacion\examen_241\ej9_deteccionbordes\ej9_deteccionbordes\ej9_deteccionbordes\obj\Debug\ej9_deteccionbordes.Form1.resources
+C:\Users\59171\Documents\Programacion\examen_241\ej9_deteccionbordes\ej9_deteccionbordes\ej9_deteccionbordes\obj\Debug\ej9_deteccionbordes.Properties.Resources.resources
+C:\Users\59171\Documents\Programacion\examen_241\ej9_deteccionbordes\ej9_deteccionbordes\ej9_deteccionbordes\obj\Debug\ej9_deteccionbordes.csproj.GenerateResource.cache
+C:\Users\59171\Documents\Programacion\examen_241\ej9_deteccionbordes\ej9_deteccionbordes\ej9_deteccionbordes\obj\Debug\ej9_deteccionbordes.csproj.CoreCompileInputs.cache
+C:\Users\59171\Documents\Programacion\examen_241\ej9_deteccionbordes\ej9_deteccionbordes\ej9_deteccionbordes\obj\Debug\ej9_deteccionbordes.exe
+C:\Users\59171\Documents\Programacion\examen_241\ej9_deteccionbordes\ej9_deteccionbordes\ej9_deteccionbordes\obj\Debug\ej9_deteccionbordes.pdb
