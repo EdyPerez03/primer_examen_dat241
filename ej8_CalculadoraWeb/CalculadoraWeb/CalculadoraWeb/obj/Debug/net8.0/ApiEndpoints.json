@@ -1,0 +1,167 @@
+[
+  {
+    "ContainingType": "CalculadoraWeb.Controllers.CalculadoraController",
+    "Method": "Dividir",
+    "RelativePath": "Calculadora/dividir",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "a",
+        "Type": "System.Double",
+        "IsRequired": false
+      },
+      {
+        "Name": "b",
+        "Type": "System.Double",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Double",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CalculadoraWeb.Controllers.CalculadoraController",
+    "Method": "Multiplicar",
+    "RelativePath": "Calculadora/multiplicar",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "a",
+        "Type": "System.Double",
+        "IsRequired": false
+      },
+      {
+        "Name": "b",
+        "Type": "System.Double",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Double",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CalculadoraWeb.Controllers.CalculadoraController",
+    "Method": "ObtenerNombre",
+    "RelativePath": "Calculadora/nombre",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CalculadoraWeb.Controllers.CalculadoraController",
+    "Method": "Restar",
+    "RelativePath": "Calculadora/restar",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "a",
+        "Type": "System.Double",
+        "IsRequired": false
+      },
+      {
+        "Name": "b",
+        "Type": "System.Double",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Double",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CalculadoraWeb.Controllers.CalculadoraController",
+    "Method": "Sumar",
+    "RelativePath": "Calculadora/sumar",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "a",
+        "Type": "System.Double",
+        "IsRequired": false
+      },
+      {
+        "Name": "b",
+        "Type": "System.Double",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Double",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CalculadoraWeb.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[CalculadoraWeb.WeatherForecast, CalculadoraWeb, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]
